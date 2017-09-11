@@ -95,6 +95,7 @@ public void step3() throws InterruptedException
  		a.click(click).build().perform();
  		
         System.out.println("the element is clicked "+click +""+click.isSelected()  +" "+click.getText() );
+        System.out.println(" this is ksr" );
         
 //        
 //        for( int i=1;i<4;i++)
